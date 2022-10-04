@@ -57,9 +57,9 @@ Fine tuned a large ConvNeXt model (`convnext_large_in22k`) on these three augmen
 ## Kaggle Competition Official Submissions
 Two official submissions were made with Kaggle inference-only notebooks.
 
-The winning submission combined the models from Experiment 6 and 10 in an averaged ensemble.  The inference-only notebook can be found here.
+The winning submission combined the models from Experiment 6 and 10 in an averaged ensemble.  The inference-only notebook can be found [here](https://www.kaggle.com/code/andrewspeers/pogchamps3-experiment6plus10-kaggle-inference/notebook).
 
-The second submission (which was higher on the public leaderboard) just included the models from Experiment 6.  This notebook can be found here.
+The second submission (which was higher on the public leaderboard) just included the models from Experiment 6.  This notebook can be found [here](https://www.kaggle.com/code/andrewspeers/pogchamps3-experiment6-kaggle-inference).
 
 ## Special Thanks
 - I would like to thank 3x Kaggle Grandmaster [Rob Mulla](https://www.kaggle.com/robikscube) who hosted the competition and provided an excellent environment that encouraged participation.
